@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vignonpa.github.io/sitemap.xml
+Sitemap: https://vignonpa.github.io/al-folio/sitemap.xml
